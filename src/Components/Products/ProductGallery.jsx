@@ -8,10 +8,10 @@ const NextArrow = (props) => {
   const { onClick } = props;
   return (
     <div
-      className="absolute right-1 top-1/2 transform -translate-y-1/2 z-10 cursor-pointer text-sm text-gray-700 hover:text-gray-950 transition-all duration-200 ease-in-out"
+      className="absolute right-1 top-1/2 transform -translate-y-1/2 z-10 cursor-pointer text-2xl text-gray-700 hover:text-gray-950 transition-all duration-200 ease-in-out"
       onClick={onClick}
     >
-      ⮞
+      ›
     </div>
   );
 };
@@ -21,10 +21,10 @@ const PrevArrow = (props) => {
   const { onClick } = props;
   return (
     <div
-      className="absolute left-1 top-1/2 transform -translate-y-1/2 z-10 cursor-pointer text-sm text-gray-700 hover:text-gray-950 transition-all duration-200 ease-in-out"
+      className="absolute left-1 top-1/2 transform -translate-y-1/2 z-10 cursor-pointer text-2xl text-gray-700 hover:text-gray-950 transition-all duration-200 ease-in-out"
       onClick={onClick}
     >
-      ⮜
+      ‹
     </div>
   );
 };
