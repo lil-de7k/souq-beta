@@ -1,0 +1,8 @@
+@media (max-width: 640px) {
+  .custom-select__placeholder {
+    font-size: 11px !important;
+  }
+  .custom-select__option {
+    font-size: 11px !important;
+  }
+}
