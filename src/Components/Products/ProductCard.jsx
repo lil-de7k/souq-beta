@@ -10,7 +10,7 @@ const ProductCard = ({ product }) => {
         <img 
           src={product.image} 
           alt={product.name} 
-          className="w-full h-25 sm:h-53 md:h-44 lg:h-45 xl:h-45 object-cover rounded-md"
+          className="w-full h-30 sm:h-60 md:h-60 lg:h-45 xl:h-45 object-cover rounded-md"
         />
       </Link>
       <div className="mt-3 flex-1 flex flex-col justify-between">

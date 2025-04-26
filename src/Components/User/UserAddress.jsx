@@ -10,7 +10,6 @@ const UserAddress = () => {
       <div className='mt-5 sm:mt-7'>
         <UserAddressDetails />
         <UserAddressDetails />
-        <UserAddressDetails />
       </div>
 
       <div className='flex justify-center'>
