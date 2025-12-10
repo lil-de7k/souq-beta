@@ -10,7 +10,7 @@ const RateItem = () => {
       </div>
       <div className="pb-3">
         <p className="inline-block text-[11px] sm:text-[12px] text-gray-500 sm:font-semibold leading-relaxed">
-          منتج مناسب سعره للوقت الحالي وجه كويس جدا ومعاه دراع زيادة
+          منتج مناسب سعره للوقت الحالي وكويس جدا
         </p>
       </div>
     </div>
