@@ -32,11 +32,11 @@ const ProductCard = ({ product }) => {
 
 const ProductList = () => {
   const products = [
-    { name: "سماعه وايرليس زرقا بلوتوث اكس فوكس بكس سيفن", price: 200, image: "/item.png" },
-    { name: "سماعه وايرليس زرقا بلوتوث اكس فوكس بكس سيفن", price: 200, image: "/item.png" },
-    { name: "سماعه وايرليس زرقا بلوتوث اكس فوكس بكس سيفن", price: 200, image: "/item.png" },
-    { name: "سماعه وايرليس زرقا بلوتوث اكس فوكس بكس سيفن", price: 200, image: "/item.png" },
-    { name: "سماعه وايرليس زرقا بلوتوث اكس فوكس بكس سيفن", price: 200, image: "/item.png" },
+    { name: "سماعه وايرليس بلوتوث", price: 200, image: "/item.png" },
+    { name: "سماعه وايرليس بلوتوث", price: 200, image: "/item.png" },
+    { name: "سماعه وايرليس بلوتوث", price: 200, image: "/item.png" },
+    { name: "سماعه وايرليس بلوتوث", price: 200, image: "/item.png" },
+    { name: "سماعه وايرليس بلوتوث", price: 200, image: "/item.png" },
   ];
 
   return (
