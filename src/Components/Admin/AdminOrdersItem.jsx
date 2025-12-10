@@ -21,7 +21,7 @@ const AdminOrdersItem = () => {
           {/* وصف المنتج */}
           <div className='mt-1.5 mb-1.5 sm:mt-4 sm:mb-4'>
             <p className='text-[10.5px] sm:text-[13.5px] font-semibold text-gray-800 mb-1 leading-5'>
-              ايفون جامد طحن بمساحه كبيره ويدعم تقنيات عديده مع تطبيق قرطسني
+              iPhone X – شاشة 5.8 بوصة، ذاكرة داخلية 64/256GB، كاميرا مزدوجة، Face ID
             </p>
             <p className='text-[10px] sm:text-[12.5px] font-semibold text-gray-700 mb-1.5'>
               الماركه: <span className='text-gray-600'>ابل</span>
